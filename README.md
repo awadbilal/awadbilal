@@ -77,18 +77,17 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=awadbilal&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=awadbilal&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadbilal&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadbilal&hide_border=true&layout=compact" align="center" /></div>  
 
 <br/>  
 
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=awadbilal&cover_image=true&theme=default&bar_color_cover=false" /></div>  
 
-<br/>  
+<br/>
 
 
-### Support Me
 <div align="center">
             <a href="https://www.buymeacoffee.com/awadbilal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></div>
 <br />
