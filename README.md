@@ -78,8 +78,8 @@
 
 ## Github Stats
 <div align="center">
-  <a href="https://github.com/awadbilal?tab=repositories" target="_blank">
-      <img src="https://github-profile-trophy.vercel.app/?username=awadbilal&column=8&theme=onedark&no-frame=true"/>
+  <a href="https://github.com/awadbilal?tab=repositories" target="_blank" align="left">
+      <img src="https://github-profile-trophy.vercel.app/?username=awadbilal&no-bg=true"/>
    </a>
 </div>
 
