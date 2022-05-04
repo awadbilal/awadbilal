@@ -85,7 +85,7 @@
 
 <br/>
 
-<div align="center" display="flex" justify="center" align="center">
+<div align="center" display="flex" flexDirection="row" flexWrap="nowrap" justifyContent="center" alignContent="center" alignItems="center">
    <a href="http://www.github.com/awadbilal">
      <img src="https://github-readme-stats.vercel.app/api?username=awadbilal&show_icons=true&hide=issues,&title_color=0891b2&text_color=3382ed&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="awadbilal's GitHub stats" />
    </a>
