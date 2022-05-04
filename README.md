@@ -1,3 +1,9 @@
+<style>
+td, th, table {
+   border: none!important;
+}
+</style>
+
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
@@ -83,8 +89,8 @@
    </a>
 </div>
 
-<table width="100%" display="flex" justify="center" align="center" border="none"> 
-  <td width="50%" display="flex" justify="center" align="center" order="none">
+<table width="100%" display="flex" justify="center" align="center"> 
+  <td width="50%" display="flex" justify="center" align="center">
     <div align="center">
       <a href="http://www.github.com/awadbilal">
         <img height="170" src="https://github-readme-stats.vercel.app/api?username=awadbilal&show_icons=true&hide=issues,&title_color=0891b2&text_color=3382ed&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="awadbilal's GitHub stats" />
@@ -92,7 +98,7 @@
     </div> 
   </td>
 
-  <td width="50%" order="none">
+  <td width="50%">
     <div align="center">
       <a href="https://github.com/awadbilal" align="left">
         <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadbilal&layout=compact&theme=onedark&hide_border=true&title_color=0891b2&icon_color=eec4899&text_color=3382ed&bg_color=1c1917&;Language&nbsp;Stats" />
