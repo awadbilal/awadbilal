@@ -83,17 +83,23 @@
    </a>
 </div>
 
-<div align="center">
-  <a href="http://www.github.com/awadbilal">
-    <img src="https://github-readme-stats.vercel.app/api?username=awadbilal&show_icons=true&hide=issues,&title_color=0891b2&text_color=3382ed&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="awadbilal's GitHub stats" />
-  </a>
-</div>  
-
-<div align="center">
-  <a href="https://github.com/awadbilal" align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadbilal&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>
-</div>  
+<table width="100%" display="flex" justify="center" align="center"> 
+  <td width="50%" display="flex" justify="center" align="center">
+    <div align="center">
+      <a href="http://www.github.com/awadbilal">
+        <img src="https://github-readme-stats.vercel.app/api?username=awadbilal&show_icons=true&hide=issues,&title_color=0891b2&text_color=3382ed&icon_color=ec4899&bg_color=1c1917&hide_border=true&show_icons=true" alt="awadbilal's GitHub stats" />
+      </a>
+    </div> 
+  </td>
+ 
+  <td width="50%" display="flex" justify="center" align="center">
+    <div align="center">
+      <a href="https://github.com/awadbilal" align="left">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=awadbilal&langs_count=10&title_color=0891b2&text_color=3382ed&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+      </a>
+    </div>  
+  </td>
+</table>
 
 <br/>  
 
@@ -103,5 +109,9 @@
 
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/awadbilal"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a></div>
+  <a href="https://www.buymeacoffee.com/awadbilal">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" />
+  </a>
+</div>
+  
 <br />
