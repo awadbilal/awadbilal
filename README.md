@@ -6,7 +6,7 @@
 ## I'm Bilal Avvad,  
   
 
-### A full-time Frontend developer 👨‍💻 working in a hybrid workspace who is also learning backend development and working in it as an intern.  
+### A full-stack developer and partial AI developer 👨‍💻 working in a hybrid workspace who is also learning more in AI fields and DevOps engineering.  
   
 
 - 🌍  I'm a traveler between Kuwait & Turkey  
@@ -21,7 +21,7 @@
 - 🔭 I’m currently working on [WesterOps](https://westerops.com) projects  
   
 
-- 🌱 I’m currently learning Node.js, MongoDB, Express.js, Nest.js, and Next.js
+- 🌱 I’m currently learning AI and DevOps engineering specifically in Chatbots, voice analysis, and video recognition.
   
 
 - ⚡ Fun fact: I use tabs over spaces  
