@@ -18,13 +18,13 @@
 - ✉️  You can contact me at [Awadbilal99@gmail.com.](mailto:Awadbilal99@gmail.com.)  
   
 
-- 🔭 I’m currently working on [WesterOps](https://westerops.com) projects  
+- 🔭 I’m currently working at [UPayments](https://upayments.com/)
   
 
 - 🌱 I’m currently learning AI and DevOps engineering specifically in Chatbots, voice analysis, and video recognition.
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces also i prefer JS but TS is a must for validations
   
 
 - 🤝  I'm open to collaborating on creative projects that is needed on daily basis using the web or mobile platforms.  
